@@ -16,7 +16,7 @@ programa
 		escreva("Sua nota foi a nota: C")
 		senao se (nota>6 e nota<=8)
 		escreva("Sua nota foi a nota: B")
-		senao (nota>8 e nota<=10)
+		senao se (nota>8 e nota<=10)
 		escreva("Sua nota foi a nota: A")
 			
 	
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 350; 
+ * @POSICAO-CURSOR = 360; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
