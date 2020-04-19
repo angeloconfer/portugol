@@ -10,13 +10,13 @@ programa
 
 		se (nota>=0 e nota<=2)
 		escreva("Sua nota foi a nota: E")
-		se (nota>2 e nota<=4)
+		senao se (nota>2 e nota<=4)
 		escreva("Sua nota foi a nota: D")
-		se (nota>4 e nota<=6)
+		senao se (nota>4 e nota<=6)
 		escreva("Sua nota foi a nota: C")
-		se (nota>6 e nota<=8)
+		senao se (nota>6 e nota<=8)
 		escreva("Sua nota foi a nota: B")
-		se (nota>8 e nota<=10)
+		senao (nota>8 e nota<=10)
 		escreva("Sua nota foi a nota: A")
 			
 	
